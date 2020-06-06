@@ -1,6 +1,6 @@
-# coversormoedas
+# Conversor de Moedas
 
-A new Flutter application.
+Aplicativo Conversor de moedas. Desenvolvido em flutter.
 
 ## Getting Started
 
